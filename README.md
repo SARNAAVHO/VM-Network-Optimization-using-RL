@@ -51,7 +51,7 @@ The dataset `vm_network_dynamic_realistic.csv` includes:
 - **Reward Function**:
 
 ```math
-Reward = w1 * normalized_throughput 
-       - w2 * normalized_task_completion_time 
-       - w3 * average_network_load 
-       + w4 * impact_on_network_bandwidth_avail
+Reward = w1 * normalized throughput 
+       - w2 * normalized task completion time 
+       - w3 * average network load 
+       + w4 * impact on network bandwidth avail
