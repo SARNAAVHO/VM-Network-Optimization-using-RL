@@ -8,7 +8,7 @@ This project implements a **Deep Reinforcement Learning (DRL)**-based agent that
 
 ## 🔧 Key Features
 
-- Realistic VM-network simulation using [CloudSim Plus](https://github.com/msrks/cloudsimplus)
+- Realistic VM-network simulation using [CloudSim Plus](https://github.com/cloudsimplus/cloudsimplus)
 - 20 simulated cloud networks (edge, regional, core) with dynamic load conditions
 - DQN-based RL agent to learn action policies
 - Custom reward function based on:
