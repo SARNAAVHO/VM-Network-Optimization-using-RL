@@ -1,3 +1,5 @@
+# VM-Network-Optimization-using-RL
+
 This project implements a **Deep Reinforcement Learning (DRL)**-based agent that learns to recommend optimal actions **after a VM is assigned to a cloud network**. It is built on top of a realistic, dynamically generated dataset from **CloudSim Plus**, simulating 20 cloud networks with varying **latency**, **load**, and **bandwidth availability**.
 
 > 🎯 **Goal**: To improve task performance (e.g., reduce completion time, increase throughput) by recommending adaptive actions based on current network and VM states.
