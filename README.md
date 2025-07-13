@@ -1,4 +1,4 @@
-# VM-Network-Optimization-using-RL
+# Dynamic Bandwidth Optimization for Cloud VMs using Reinforcement Learning
 
 This project implements a **Deep Reinforcement Learning (DRL)**-based agent that learns to recommend optimal actions **after a VM is assigned to a cloud network**. It is built on top of a realistic, dynamically generated dataset from **CloudSim Plus**, simulating 20 cloud networks with varying **latency**, **load**, and **bandwidth availability**.
 
